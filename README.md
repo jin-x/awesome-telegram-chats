@@ -9,6 +9,7 @@ Take a minute and have a look at collection of Open Source Examples, Libraries a
 
 #### Channels
 
+- [parallelcode](https://t.me/parallelcode) — канал о Concurrency, GPGPU, IPC, SIMD, оптимизации и профилировании
 - [Juliarderity](https://t.me/juliarderity) - лучший канал про ECMAScript, WebAssembly, спецификации, web и около
 - [For Web](https://telegram.me/forwebdev)
 - [Веб-стандарты](https://telegram.me/webstandards_ru)
@@ -38,6 +39,7 @@ Take a minute and have a look at collection of Open Source Examples, Libraries a
 - [Open Source Future](https://t.me/opensourcefuture) - Подборка интересных open-source проектов. Публикация новостей из мира разработки, событий индустрии и жизни разработчиков.
 
 #### Supergroups
+- [parallelcoding](https://t.me/parallelcoding) — чат о Concurrency, GPGPU, IPC, SIMD, оптимизации и профилировании
 - [Hardcore Development](https://t.me/hcdev) – Hardcore Development Team. No bullshit. FP, RP.
 - [Rubyata](https://t.me/rubyata) — Ruby и Ruby On Rails комьюнити
 - [Rust](https://t.me/rustlang_ru) - невероятно быстрый системный язык программирования без segfault'ов и с гарантиями потокобезопасности.
@@ -156,8 +158,6 @@ Take a minute and have a look at collection of Open Source Examples, Libraries a
 ## Blockchain groups
 - [Ethereum Russia](https://t.me/eth_ru) — Общаемся на тему разработки для платформы Ethereum. Smart Contracts, web3.js, Truffle, Solidity и т.д. Обсуждаем идеи, новости. Решаем проблемы.
 - [Ethereum Jobs](https://t.me/eth_jobs) — Публикуем вакансии и запросы на поиск работы по направлению Blockchain, Ethereum, Smart Contracts и т.д.
-
-
 
 ## BeerJS
 
